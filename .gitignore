@@ -1,0 +1,7 @@
+/build*/
+/cmake-build-*/
+/.idea/
+*.data
+*.data.tmp.*
+__pycache__/
+/labstruct
